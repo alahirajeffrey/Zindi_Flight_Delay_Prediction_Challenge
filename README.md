@@ -6,7 +6,7 @@ Flight delays not only irritates air passengers and disrupt their schedules but 
 - increased capital costs, reallocation of flight crews and aircraft
 - additional crew expenses
 
-Most passengers choose air travel due to its relative safety and timeliness. This means that delays would most likely have a negative impact on passenger demand for airtravel.
+Most passengers choose air travel due to its relative safety and timeliness. This means that delays would most likely have a negative impact on passenger demand for air travel.
 
 This project aims to predict the estimated duration of flight delays per flight using dataset gotten from the zindi flight delay prediction challenge.
 
